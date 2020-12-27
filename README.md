@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">A software engineer from Portugal</h3>
+### Hi, I'm João 👋
 
-- I’m currently learning the **Rust programming language**
+I am:
 
-- 📫 How to reach me: **joaodiasconde@gmail.com**
+- the amazing city of Porto, Portugal
+
+- a software engineer working at @ripe-tech
+
+- currently developing my programming skills in **Rust** 🦀
+
+📫 You can reach me at **joaodiasconde@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-conde&show_icons=true&locale=en" alt="joao-conde" /></p>
+
+
+### Side (and possibly geek) projects
+
+- Advents Of Code 🎄
