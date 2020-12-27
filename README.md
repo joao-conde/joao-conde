@@ -10,8 +10,6 @@ I am:
 
 📫 You can reach me at **joaodiasconde@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-conde&show_icons=true&locale=en" alt="joao-conde" /></p>
-
 ### My GitHub
 
 Some projects I work on are open-source and hosted on github, such as:
