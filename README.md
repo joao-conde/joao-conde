@@ -16,7 +16,7 @@ Some projects I work on are open-source and hosted on GitHub, such as:
 
 - [Advents Of Code 🎄](https://github.com/joao-conde/advents-of-code) - Solutions to the [AoC](https://adventofcode.com/) yearly advent challenges
 
-- [Chip8 Emulator](https://github.com/joao-conde/chip8-emulator) - A Chip8 emulator, try it [here!](https://joao-conde.github.io/chip8-emulator/)
+- [CHIP-8 Emulator](https://github.com/joao-conde/chip8-emulator) - A CHIP-8 emulator, try some games [here!](https://joao-conde.github.io/chip8-emulator/)
 
 - [Coffee Break](https://github.com/joao-conde/feup-djco-coffeebreak) - A video gaming quest for coffee ☕
 
