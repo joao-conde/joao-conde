@@ -10,7 +10,7 @@ I am:
 
 📫 You can reach me at **joaodiasconde@gmail.com**
 
-### My GitHub
+### Projects
 
 Some projects I work on are open-source and hosted on GitHub, such as:
 
