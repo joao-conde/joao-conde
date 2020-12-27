@@ -12,7 +12,7 @@ I am:
 
 ### My GitHub
 
-Some projects I work on are open-source and hosted on github, such as:
+Some projects I work on are open-source and hosted on GitHub, such as:
 
 - [Advents Of Code 🎄](https://github.com/joao-conde/advents-of-code) - Solutions to the [AoC](https://adventofcode.com/) yearly advent challenges
 
@@ -22,4 +22,4 @@ Some projects I work on are open-source and hosted on github, such as:
 
 - [Coffee Break](https://github.com/joao-conde/feup-djco-coffeebreak) - A video gaming quest for coffee ☕
 
-- [Minix Vice](https://github.com/joao-conde/feup-lcom) - A racing game and necessary timer, keyboard, mouse and graphics drivers to run in on a modified version of the [Minix OS](https://www.minix3.org/)
+- [Minix Vice](https://github.com/joao-conde/feup-lcom) - A racing game and necessary timer, keyboard, mouse, and graphics drivers to run it on a slightly modified image of the [Minix OS](https://www.minix3.org/)
