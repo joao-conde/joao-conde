@@ -14,12 +14,4 @@ I am:
 
 ### Projects
 
-Some projects I work on are open-source and hosted on GitHub, such as:
-
-- [Advents Of Code 🎄](https://github.com/joao-conde/advents-of-code) - Solutions to the [AoC](https://adventofcode.com/) yearly advent challenges
-
-- [CHIP-8 Emulator](https://github.com/joao-conde/chip8-emulator) - A CHIP-8 emulator, try some games [here!](https://joao-conde.github.io/chip8-emulator/)
-
-- [Coffee Break](https://github.com/joao-conde/feup-djco-coffeebreak) - A video gaming quest for coffee ☕
-
-- [Minix Vice](https://github.com/joao-conde/feup-lcom) - A racing game and necessary timer, keyboard, mouse, and graphics drivers to run it on a slightly modified image of the [Minix OS](https://www.minix3.org/)
+Check them below:
