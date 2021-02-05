@@ -6,8 +6,6 @@ I am:
 
 - a software engineer working at [@ripe-tech](https://github.com/ripe-tech)
 
-- currently trying to become a **Rust** 🦀 "expert"
-
 - building a NES emulator
 
 📫 You can reach me at **joaodiasconde@gmail.com**
