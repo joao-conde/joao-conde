@@ -4,7 +4,7 @@ I am:
 
 - a master in computer science
 
-- from the amazing city of [Porto](https://goo.gl/maps/RR8Gg3PrVteYkAWC9), Portugal
+- from the amazing city of [Porto, Portugal](https://goo.gl/maps/RR8Gg3PrVteYkAWC9)
 
 - a software engineer working at [@ripe-tech](https://github.com/ripe-tech)
 
